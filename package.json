@@ -1,0 +1,16 @@
+{
+  "name": "se",
+  "version": "0.0.1",
+  "description": "Keyword searchable encryption",
+  "homepage": "https://github.com/berryboy/searchable-encryption-js",
+  "repository": { 
+      "type" : "git",
+      "url"  : "https://github.com/berryboy/searchable-encryption-js"
+    },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "latest",
+    "npm": "1.1.x"
+  }
+}
